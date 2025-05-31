@@ -1,8 +1,45 @@
 [
   {
-    "hackathon": "Relevance AI AI Tools Hackathon",
+    "hackathon": "FoundersHack",
+    "date": "May 2025",
+    "location": "NextGen Ventures",
+    "award": "2nd - $1000 Prize",
+    "description": "Doing conversational practice with students is time-consuming for language teachers. In 72 hours, we built and launched a product called Duck & Cat where teachers can create their own AI roleplay scenarios and automatically generate content from students' responses.",
+    "thumbnailUrl": "/images/hackathon/duck-and-cat.png",
+    "websiteUrl": "https://www.duckandcat.app"
+  },
+  {
+    "hackathon": "UNIHACK 2025",
+    "date": "Mar 2025",
+    "location": "UNSW",
+    "description": "Thinking of gift ideas is hard. So we built Gifty.ai, an voice-activated AI agent to guide through choosing the perfect gift for that perfect someone.",
+    "githubUrl": "https://github.com/TyperOfCode/Unihack2025",
+    "thumbnailUrl": "/images/hackathon/gifty.jpg",
+    "websiteUrl": "https://devpost.com/software/giftyai"
+  },
+  {
+    "hackathon": "ElevenLabs x a16z Hackathon",
+    "date": "Feb 2025",
+    "award": "2nd - AirPods Max",
+    "location": "Build Club",
+    "description": "Standups are outdated. So we built Agility.ai, an AI project manager for outsourced dev work, that tracks GitHub and Jira tickets, talks to devs about their progress using voice, and escalates blockers. 100 remote devs = 1 human manager.",
+    "githubUrl": "https://github.com/Agility-AI-Team/agility-ai",
+    "thumbnailUrl": "/images/hackathon/agility.jpg",
+    "linkedinUrl": "https://www.linkedin.com/posts/chris-yoo_stand-ups-at-8pm-sound-familiar-youre-activity-7299531706124955649-5eQY"
+  },
+  {
+    "hackathon": "Startmate Founder Challenge",
     "date": "Dec 2024",
     "location": "Sydney",
+    "award": "3rd - Ticket to Launch Club",
+    "description": "In 2 weeks, pitched SkillScale, an AI-automated hiring pipeline for recruiters.",
+    "thumbnailUrl": "/images/hackathon/skillscale.png",
+    "websiteUrl": "https://docs.google.com/presentation/d/1PwKBrPADtoSLJIoILjuSdtNsNM2kzCPj6EwH-S0oD54/edit?usp=sharing"
+  },
+  {
+    "hackathon": "Relevance AI AI Tools Hackathon",
+    "date": "Dec 2024",
+    "location": "Startmate",
     "award": "1st - $300 Prize",
     "description": "Created an AI agent to find restaurants and order food with DoorDash on the Relevance AI platform.",
     "thumbnailUrl": "/images/hackathon/relevance-ai-hackathon.jpeg"
@@ -10,7 +47,7 @@
   {
     "hackathon": "Build Club x Tutero AI EdTech Hackathon",
     "date": "Dec 2024",
-    "location": "Sydney",
+    "location": "Build Club",
     "award": "2nd - $300 Prize",
     "description": "Built 'StudyBuddy AI' - an app that watches your webcam 👀 and sends a personal AI-generated video message to you to remind you to get back on track.",
     "thumbnailUrl": "/images/hackathon/tutero-edtech-hackathon.jpeg",
@@ -19,7 +56,7 @@
   {
     "hackathon": "Euc AI HealthTech Hackathon",
     "date": "Dec 2024",
-    "location": "Sydney",
+    "location": "Eucalyptus",
     "award": "Best in Groq - $500 Prize",
     "description": "Built an app where users can take a photo of their receipt, and have it be translated into a nutrition summary, with AI providing feedback and generating a revised shopping list for the next grocery run.",
     "thumbnailUrl": "/images/hackathon/euc-healthtech-hackathon.jpeg",
@@ -28,7 +65,7 @@
   {
     "hackathon": "SXSW Sydney AI Hackathon",
     "date": "Dec 2024",
-    "location": "Sydney",
+    "location": "SXSW Sydney",
     "award": "Best in Relevance AI - $500 Prize",
     "description": "Built outLANDish.ai, a tool that uses AI agents to build a personalised landing page for selling B2B products to targeted customers.",
     "thumbnailUrl": "/images/hackathon/sxsw-hackathon.jpeg",
@@ -46,7 +83,7 @@
   {
     "hackathon": "Build Club AI Hackathon",
     "date": "Jun 2024",
-    "location": "Sydney",
+    "location": "Build Club",
     "description": "Built Voluntario, an AI-powered platform that connects people to volunteering opportunities of their interest.",
     "thumbnailUrl": "/images/hackathon/build-club-ai-hackathon.jpeg",
     "githubUrl": "https://github.com/coop-cmpers/build-club-ai-hackathon-2024"
@@ -54,14 +91,14 @@
   {
     "hackathon": "SafetyCulture ShipIt Hackathon",
     "date": "May 2024",
-    "location": "Sydney",
+    "location": "SafetyCulture",
     "description": "Developed PoC of 'OmniSearch', a better way to search in the SC platform. Finalist, and chosen as 1 of 5 ideas to be turned into production.",
     "thumbnailUrl": "/images/hackathon/safetyculture-shipit-hackathon.jpg"
   },
   {
     "hackathon": "SafetyCulture Interns Hackathon",
     "date": "Dec 2023 - Feb 2024",
-    "location": "Sydney",
+    "location": "SafetyCulture",
     "description": "Developed an Apple Watch integration to ensure safety of lone workers, with rapid shift sign-on, location tracking, panic alarm, and creation of tasks with voice. Turned into actual project for senior mobile engineers.",
     "thumbnailUrl": "/images/hackathon/safetyculture-interns-hackathon.jpeg"
   }

@@ -1,6 +1,7 @@
 "use client";
 
-import { SiGithub } from "@icons-pack/react-simple-icons";
+import { SiGithub, SiLinkedin } from "@icons-pack/react-simple-icons";
+import { Globe } from "lucide-react";
 import Image from "next/image";
 import React from "react";
 
@@ -11,7 +12,9 @@ interface HackathonCardProps {
   award?: string;
   description: string;
   thumbnailUrl: string;
+  websiteUrl?: string;
   githubUrl?: string;
+  linkedinUrl?: string;
 }
 
 const HackathonCard: React.FC<HackathonCardProps> = ({
@@ -21,7 +24,9 @@ const HackathonCard: React.FC<HackathonCardProps> = ({
   award,
   description,
   thumbnailUrl,
+  websiteUrl,
   githubUrl,
+  linkedinUrl,
 }) => {
   return (
     <div className="flex flex-col justify-between bg-white shadow-md rounded-lg p-4 hover:shadow-2xl">
@@ -51,8 +56,25 @@ const HackathonCard: React.FC<HackathonCardProps> = ({
         </div>
       </div>
       <div className="flex flex-row justify-between w-full">
-        <div className="cursor-pointer">
-          {githubUrl && <SiGithub onClick={() => window.open(githubUrl)} />}
+        <div className="flex flex-row gap-2">
+          {websiteUrl && (
+            <Globe
+              className="cursor-pointer"
+              onClick={() => window.open(websiteUrl)}
+            />
+          )}
+          {githubUrl && (
+            <SiGithub
+              className="cursor-pointer"
+              onClick={() => window.open(githubUrl)}
+            />
+          )}
+          {linkedinUrl && (
+            <SiLinkedin
+              className="cursor-pointer"
+              onClick={() => window.open(linkedinUrl)}
+            />
+          )}
         </div>
         <div className="flex flex-row text-gray-400">
           <p>{date}</p>
