@@ -59,5 +59,11 @@
     "age": 19,
     "description": "In a span of 2 weeks, won prizes in 3 hackathons and came 3rd in a startup pitch competition (prize sum: $2200).",
     "imageUrl": "/images/hackathon/build-club-ai-hackathon.jpeg"
+  },
+  {
+    "date": "February 2025",
+    "age": 19,
+    "description": "Joined Nullify, a startup building the world's first AI security engineer. I've built agents to auto-fix vulnerabilities, reverse schemas from code, and hack systems.",
+    "imageUrl": "/images/nullify-logo.png"
   }
 ]
