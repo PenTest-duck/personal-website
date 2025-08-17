@@ -65,5 +65,10 @@
     "age": 19,
     "description": "Joined Nullify, a startup building the world's first AI security engineer. I've built agents to auto-fix vulnerabilities, reverse schemas from code, and hack systems.",
     "imageUrl": "/images/nullify-logo.png"
+  },
+  {
+    "date": "Now",
+    "age": 20,
+    "description": "Winning some more hackathons. Exploring some ideas. Exchange at Harvard."
   }
 ]
