@@ -1,5 +1,10 @@
+"use client";
+
 import MyTimeline from "@/components/MyTimeline";
+import { Button } from "@/components/ui/button";
+import { ArrowRight } from "lucide-react";
 import Image from "next/image";
+import Link from "next/link";
 
 export default function Home() {
   return (
@@ -17,6 +22,12 @@ export default function Home() {
         <p className="text-lg max-w-2xl mx-auto">
           On a mission to build great things and solve huge problems.
         </p>
+        <Link href="/hackathons">
+          <Button variant="outline" className="mt-4">
+            Hackathons I&apos;ve won
+            <ArrowRight />
+          </Button>
+        </Link>
       </section>
       <section className="mt-12">
         <MyTimeline />
