@@ -60,14 +60,14 @@ const NavBar = () => {
               Blog
             </Link>
           </li>
-          <li>
+          {/* <li>
             <Link
               href="/projects"
               className="text-foreground hover:text-muted-foreground"
             >
               Projects
             </Link>
-          </li>
+          </li> */}
           <li>
             <Link
               href="/random/ai"
