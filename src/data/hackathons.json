@@ -1,5 +1,21 @@
 [
   {
+    "hackathon": "CrewAI Hackathon",
+    "date": "Aug 2025",
+    "location": "San Francisco",
+    "award": "3rd - $1000 Prize",
+    "description": "History repeats itself. Humanity makes the same mistakes over and over again. Built AI agents designed to outlast civilization, monitoring current affairs and advocating for change towards timeless human values by sending emails to decision-makers and creating social media videos.",
+    "thumbnailUrl": "/images/hackathon/humanitys-last-hope.png"
+  },
+  {
+    "hackathon": "AWS Hack Day Hackathon",
+    "date": "Aug 2025",
+    "location": "San Francisco",
+    "award": "1st - $200 Prize",
+    "description": "The future of investment is evolutionary. 100 agents, each with a different stock strategy. Every round, the 50 with the lowest profits are killed off and the top 50 produce mutations. A Darwinian simulation on the past 10 years of S&P 500 data.",
+    "thumbnailUrl": "/images/hackathon/survival-of-the-wealthiest.png"
+  },
+  {
     "hackathon": "FoundersHack",
     "date": "May 2025",
     "location": "NextGen Ventures",
