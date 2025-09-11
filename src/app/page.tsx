@@ -20,7 +20,7 @@ export default function Home() {
           className="rounded-full mx-auto mb-8"
         />
         <p className="text-lg max-w-2xl mx-auto">
-          On a mission to build great things and solve huge problems.
+          On a mission to build things that matter.
         </p>
         <Link href="/hackathons">
           <Button variant="outline" className="mt-4">
