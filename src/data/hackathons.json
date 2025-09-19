@@ -1,5 +1,14 @@
 [
   {
+    "hackathon": "HackMIT 2025",
+    "date": "Sep 2025",
+    "location": "MIT",
+    "description": "BrainBox is an agentic database for enterprise knowledge. It's not just a medium of file storage - it's an agentic archivalist that listens, acts, and visualizes the vast amount of knowledge that go undocumented and lost within an organization.",
+    "thumbnailUrl": "/images/hackathon/hackmit-brainbox.png",
+    "githubUrl": "https://github.com/HackMIT-Winners/BrainBox",
+    "websiteUrl": "https://brainbox-hackmit.vercel.app"
+  },
+  {
     "hackathon": "CrewAI Hackathon",
     "date": "Aug 2025",
     "location": "San Francisco",
