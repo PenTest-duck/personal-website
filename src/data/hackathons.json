@@ -1,5 +1,14 @@
 [
   {
+    "hackathon": "HackHarvard 2025",
+    "date": "Oct 2025",
+    "location": "Harvard",
+    "description": "VibeCAD is Cursor for CAD. Turn rough sketches into CAD, manipulate 3D objects with your hand gestures, and use your voice to edit models.",
+    "thumbnailUrl": "/images/hackathon/hackharvard-vibecad.png",
+    "githubUrl": "https://github.com/PenTest-duck/VibeCAD",
+    "websiteUrl": "https://devpost.com/software/vibecad"
+  },
+  {
     "hackathon": "HackMIT 2025",
     "date": "Sep 2025",
     "location": "MIT",

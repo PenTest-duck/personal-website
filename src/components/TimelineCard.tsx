@@ -30,8 +30,7 @@ const TimelineCard = ({
             width={250}
             height={250}
             placeholder="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAA1BMVEWnpaaXiDhOAAAAR0lEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GxYgAAb0jQ/cAAAAASUVORK5CYII="
-            objectFit="contain"
-            className="my-8 mx-auto rounded-lg rotate-6"
+            className="my-8 mx-auto rounded-lg rotate-6 object-contain"
           />
         )}
       </div>
