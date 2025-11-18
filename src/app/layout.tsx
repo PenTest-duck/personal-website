@@ -19,13 +19,6 @@ export const metadata: Metadata = {
   description: "Personal website of Chris Yoo, aka PenTest-duck",
   keywords:
     "Chris Yoo, PenTest-duck, personal website, software developer, AI, hackathon",
-  icons: [
-    { rel: "icon", url: "/icons/favicon/favicon.ico" },
-    { rel: "apple-touch-icon", url: "/icons/favicon/apple-touch-icon.png" },
-    { rel: "icon", sizes: "32x32", url: "/icons/favicon/favicon-32x32.png" },
-    { rel: "icon", sizes: "16x16", url: "/icons/favicon/favicon-16x16.png" },
-  ],
-  manifest: "/icons/favicon/site.webmanifest",
 };
 
 export default function RootLayout({
