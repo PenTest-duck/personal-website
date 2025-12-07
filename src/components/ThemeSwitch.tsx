@@ -3,20 +3,17 @@
 import { useTheme } from "next-themes";
 import { Toggle } from "./ui/toggle";
 import { Moon, Sun } from "lucide-react";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 
 const ThemeSwitch = () => {
   const { setTheme, theme } = useTheme();
-  const [mounted, setMounted] = useState(false);
+  // Use lazy initializer to check if we're on the client side
+  const [mounted] = useState(() => typeof window !== "undefined");
 
   const toggleTheme = () =>
     theme === "dark" ? setTheme("light") : setTheme("dark");
 
-  useEffect(() => {
-    setMounted(true);
-  }, []);
-
-  if (!mounted) {
+  if (!mounted || !theme) {
     return null;
   }
 
