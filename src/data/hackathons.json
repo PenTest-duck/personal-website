@@ -1,5 +1,15 @@
 [
   {
+    "hackathon": "Remark x Google Gemini E-Commerce Hackathon",
+    "date": "Dec 2025",
+    "location": "Boston",
+    "description": "Unremarkable is a platform that lets e-commerce stores create a world of AI buyer personas and run marketing campaigns to get instant feedback.",
+    "thumbnailUrl": "/images/hackathon/unremarkable.png",
+    "websiteUrl": "https://unremarkable-ai.vercel.app",
+    "githubUrl": "https://github.com/PenTest-duck/unremarkable",
+    "award": "2nd - Nintendo Switch & $10K GCP credits"
+  },
+  {
     "hackathon": "YC Agent Jam",
     "date": "Nov 2025",
     "location": "Y Combinator HQ",

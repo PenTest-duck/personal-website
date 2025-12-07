@@ -82,7 +82,7 @@ export default function AgentPage() {
           )}
 
           {messages.map((message) => {
-            // @ts-ignore
+            // @ts-expect-error - message.role is not typed
             const isUser = message.role === "user";
             return (
               <div
@@ -139,9 +139,9 @@ export default function AgentPage() {
                                 {part.text}
                               </div>
                             );
-                            // @ts-ignore
+                            // @ts-expect-error - part.type is not typed
                           } else if (part.type.startsWith("tool-")) {
-                            // @ts-ignore
+                            // @ts-expect-error - part.type is not typed
                             const toolName = part.type.split("-")[1];
                             switch (toolName) {
                               case "bookMeeting":
