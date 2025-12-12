@@ -1,5 +1,14 @@
 [
   {
+    "hackathon": "ElevenLabs Worldwide Hackathon",
+    "date": "Dec 2025",
+    "location": "Boston",
+    "description": "Oncall is an AI forward-deployed engineer that sits in user meetings and builds UI prototypes in real time, so product managers can get instant feedback.",
+    "thumbnailUrl": "/images/hackathon/oncall.png",
+    "githubUrl": "https://github.com/PenTest-duck/oncall",
+    "award": "3rd - Swag Pack"
+  },
+  {
     "hackathon": "Remark x Google Gemini E-Commerce Hackathon",
     "date": "Dec 2025",
     "location": "Boston",
