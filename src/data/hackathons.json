@@ -1,5 +1,15 @@
 [
   {
+    "hackathon": "Lyrathon",
+    "date": "Dec 2025",
+    "location": "Sydney",
+    "description": "Built QuackerScroll, a TikTok-like platform to connect young ambitious talent with early-stage startups. Swipe right to video apply to startup jobs.",
+    "thumbnailUrl": "/images/hackathon/quackerscroll.gif",
+    "githubUrl": "https://github.com/zitianqin/quacker",
+    "websiteUrl": "https://quackerscroll.com",
+    "award": "1st - $2000 Prize"
+  },
+  {
     "hackathon": "ElevenLabs Worldwide Hackathon",
     "date": "Dec 2025",
     "location": "Boston",
