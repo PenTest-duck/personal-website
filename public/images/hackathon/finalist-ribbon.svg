@@ -1,0 +1,24 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="finalist-ribbon-clip">
+      <rect width="80" height="80" fill="white"/>
+    </clipPath>
+    <path id="finalist-ribbon-label-path" d="M -6 56 L 56 -6"/>
+  </defs>
+  <g clip-path="url(#finalist-ribbon-clip)">
+    <g transform="translate(18 18) rotate(-45)">
+      <rect x="-72" y="-12" width="144" height="24" fill="#2563EB"/>
+    </g>
+    <text
+      fill="#F8FAFC"
+      font-family="Arial, sans-serif"
+      font-size="9"
+      font-weight="700"
+      letter-spacing="0.9"
+    >
+      <textPath href="#finalist-ribbon-label-path" startOffset="50%" text-anchor="middle">
+        FINALIST
+      </textPath>
+    </text>
+  </g>
+</svg>

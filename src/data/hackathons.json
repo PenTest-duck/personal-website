@@ -1,5 +1,14 @@
 [
   {
+    "hackathon": "Mistral Worldwide Hackathon",
+    "date": "Mar 2026",
+    "location": "Sydney",
+    "description": "Built Glasstral - vibe-coding with AR glasses. We connected Meta Ray-Bans with Mistral coding agents to go from vision & voice to code in real time.",
+    "thumbnailUrl": "/images/hackathon/glasstral.png",
+    "githubUrl": "https://github.com/TyperOfCode/mistral_hackathon",
+    "finalist": "Top 5 Finalist"
+  },
+  {
     "hackathon": "Lyrathon",
     "date": "Dec 2025",
     "location": "Sydney",
@@ -173,7 +182,8 @@
     "date": "May 2024",
     "location": "SafetyCulture",
     "description": "Developed PoC of 'OmniSearch', a better way to search in the SC platform. Finalist, and chosen as 1 of 5 ideas to be turned into production.",
-    "thumbnailUrl": "/images/hackathon/safetyculture-shipit-hackathon.jpg"
+    "thumbnailUrl": "/images/hackathon/safetyculture-shipit-hackathon.jpg",
+    "finalist": "Top 5 Finalist"
   },
   {
     "hackathon": "SafetyCulture Interns Hackathon",

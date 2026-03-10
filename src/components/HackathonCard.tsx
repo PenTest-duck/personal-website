@@ -10,6 +10,7 @@ interface HackathonCardProps {
   date: string;
   location: string;
   award?: string;
+  finalist?: string;
   description: string;
   thumbnailUrl: string;
   websiteUrl?: string;
@@ -22,12 +23,19 @@ const HackathonCard: React.FC<HackathonCardProps> = ({
   date,
   location,
   award,
+  finalist,
   description,
   thumbnailUrl,
   websiteUrl,
   githubUrl,
   linkedinUrl,
 }) => {
+  const ribbonImage = award
+    ? "/images/hackathon/winner-ribbon.svg"
+    : finalist
+      ? "/images/hackathon/finalist-ribbon.svg"
+      : null;
+
   return (
     <div className="flex flex-col justify-between bg-white shadow-md rounded-lg p-4 hover:shadow-2xl">
       <div>
@@ -38,11 +46,11 @@ const HackathonCard: React.FC<HackathonCardProps> = ({
             fill={true}
             className="rounded-lg object-cover"
           />
-          {award && (
+          {ribbonImage && (
             <div className="absolute top-0 left-0">
               <Image
-                src="/images/hackathon/winner-ribbon.png"
-                alt="winner ribbon"
+                src={ribbonImage}
+                alt={award ? "winner ribbon" : "finalist ribbon"}
                 width={80}
                 height={80}
               />
@@ -51,6 +59,7 @@ const HackathonCard: React.FC<HackathonCardProps> = ({
         </div>
         <h2 className="text-xl font-bold text-gray-800">{hackathon}</h2>
         {award && <p>Won: {award}</p>}
+        {!award && finalist && <p>{finalist}</p>}
         <div className="my-2">
           <p className="text-gray-600">{description}</p>
         </div>
