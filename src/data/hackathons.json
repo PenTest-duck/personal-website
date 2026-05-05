@@ -4,10 +4,10 @@
     "date": "May 2026",
     "location": "Sydney",
     "description": "Julia is an agentic workspace that autonomously runs experiments to discover novel proteins and facilitates drug discovery at speed, a process that traditionally takes months, compressed into minutes.",
-    "thumbnailUrl": "/images/hackathon/julia.gif",
+    "thumbnailUrl": "/images/hackathon/julia-compressed.gif",
     "githubUrl": "https://github.com/RedCatAFK/autopep",
     "websiteUrl": "https://canva.link/5v2e01t0x8wamn9",
-    "finalist": "2nd - $25000 OpenAI credits (+ 12 months Pro)"
+    "award": "2nd - $25000 OpenAI credits (+ 12 months Pro)"
   },
   {
     "hackathon": "Mistral Worldwide Hackathon",
