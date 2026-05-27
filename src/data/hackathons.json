@@ -1,5 +1,16 @@
 [
   {
+    "hackathon": "Hack48",
+    "date": "May 2026",
+    "location": "Sydney",
+    "description": "Aperture is Airtasker for robotics data collection. It empowers anyone to record egocentric videos performing everyday tasks and earn bounties. We analyse the data with hand pose estimation / action labelling / depth perception / instance segmentation / 3DGS etc.",
+    "thumbnailUrl": "/images/hackathon/hack48-aperture.gif",
+    "githubUrl": "https://github.com/PenTest-duck/Aperture",
+    "websiteUrl": "https://canva.link/98yla76zdxrbls5",
+    "linkedinUrl": "https://www.linkedin.com/posts/chris-yoo_we-won-hack48-by-scaling-physical-data-ugcPost-7464624704323014656--o9l/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACnSXHgBelhRhOx-WGTPf8Qt4smt_f3unXs",
+    "award": "Winner (1st place)"
+  },
+  {
     "hackathon": "OpenAI Hackathon",
     "date": "May 2026",
     "location": "Sydney",
@@ -7,6 +18,7 @@
     "thumbnailUrl": "/images/hackathon/julia-compressed.gif",
     "githubUrl": "https://github.com/RedCatAFK/autopep",
     "websiteUrl": "https://canva.link/5v2e01t0x8wamn9",
+    "linkedinUrl": "https://www.linkedin.com/posts/chris-yoo_we-won-25000-from-openai-by-automating-ugcPost-7457042815261253633-q4ME/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACnSXHgBelhRhOx-WGTPf8Qt4smt_f3unXs",
     "award": "2nd - $25000 OpenAI credits (+ 12 months Pro)"
   },
   {
