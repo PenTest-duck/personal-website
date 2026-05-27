@@ -28,6 +28,7 @@
     "description": "Built Glasstral - vibe-coding with AR glasses. We connected Meta Ray-Bans with Mistral coding agents to go from vision & voice to code in real time.",
     "thumbnailUrl": "/images/hackathon/glasstral.png",
     "githubUrl": "https://github.com/TyperOfCode/mistral_hackathon",
+    "linkedinUrl": "https://www.linkedin.com/posts/chris-yoo_vibe-coding-with-ar-glasses-is-here-ugcPost-7436978651440558080-x-lo/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACnSXHgBelhRhOx-WGTPf8Qt4smt_f3unXs",
     "finalist": "Top 5 Finalist"
   },
   {
@@ -38,6 +39,7 @@
     "thumbnailUrl": "/images/hackathon/quackerscroll.gif",
     "githubUrl": "https://github.com/zitianqin/quacker",
     "websiteUrl": "https://quackerscroll.com",
+    "linkedinUrl": "https://www.linkedin.com/posts/chris-yoo_we-won-1st-prize-in-lyrathon-2000-by-building-ugcPost-7409972032773332992-Dom1/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACnSXHgBelhRhOx-WGTPf8Qt4smt_f3unXs",
     "award": "1st - $2000 Prize"
   },
   {
@@ -57,6 +59,7 @@
     "thumbnailUrl": "/images/hackathon/unremarkable.png",
     "websiteUrl": "https://unremarkable-ai.vercel.app",
     "githubUrl": "https://github.com/PenTest-duck/unremarkable",
+    "linkedinUrl": "https://www.linkedin.com/posts/chris-yoo_e-commerce-marketing-has-a-problem-its-ugcPost-7403278298228817923-NxSv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACnSXHgBelhRhOx-WGTPf8Qt4smt_f3unXs",
     "award": "2nd - Nintendo Switch & $10K GCP credits"
   },
   {
@@ -65,6 +68,7 @@
     "location": "Y Combinator HQ",
     "description": "Tastebuds is a vibe-prototyping platform to create designs that match your taste. Type a single prompt, run dozen of coding agents in parallel, then Tinder-swipe to pick your favourite to continue building in Lovable or Cursor.",
     "thumbnailUrl": "/images/hackathon/tastebuds.gif",
+    "linkedinUrl": "https://www.linkedin.com/posts/chris-yoo_heres-what-i-built-coding-on-zero-sleep-ugcPost-7391610291727482881-kOEg/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACnSXHgBelhRhOx-WGTPf8Qt4smt_f3unXs",
     "websiteUrl": "https://usetastebuds.dev"
   },
   {
@@ -74,7 +78,8 @@
     "description": "Built crax.app - the social platform for builders & hackers. Crax allows you to \"build\", and let AI take care of sharing it with the \"public\". It's the social platform for hackers, where builders share their updates and show off their projects. AI reads your commits and generates build updates when it sees fit.",
     "thumbnailUrl": "/images/hackathon/calhacks.png",
     "githubUrl": "https://github.com/Crax-AI/crax.app",
-    "websiteUrl": "https://devpost.com/software/crax.app"
+    "websiteUrl": "https://devpost.com/software/crax.app",
+    "linkedinUrl": "https://www.linkedin.com/posts/chris-yoo_just-came-back-from-the-largest-collegiate-ugcPost-7388969996426801152-oUgm/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACnSXHgBelhRhOx-WGTPf8Qt4smt_f3unXs"
   },
   {
     "hackathon": "HackHarvard 2025",
