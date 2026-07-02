@@ -10,6 +10,15 @@
     "award": "Winner (1st place)"
   },
   {
+    "hackathon": "o1bridge",
+    "date": "May 2026",
+    "location": "Sydney",
+    "description": "m.ai.lbox is a physical mailbox that AI agents can use to send compact messages to your desk, e.g. completing a task or sending a reminder.",
+    "thumbnailUrl": "/images/hackathon/o1bridge-mailbox.png",
+    "githubUrl": "https://github.com/PenTest-duck/o1bridge-mailbox",
+    "websiteUrl": "https://docs.google.com/presentation/d/1u8q2BiykmVk2kwGvqyhNt7-OY8_t4nLFW58c1s0S73I/edit?usp=sharing"
+  },
+  {
     "hackathon": "OpenAI Hackathon",
     "date": "May 2026",
     "location": "Sydney",
